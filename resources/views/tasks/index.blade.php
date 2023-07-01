@@ -1,0 +1,47 @@
+<x-layout>
+    <x-slot:page_title>
+        Tarefas
+    </x-slot:page_title>
+    <x-slot:content_title>
+        <h2 class="dark:text-white text-3xl font-extrabold">Tarefas</h2>
+    </x-slot:content_title>
+    <x-slot:content>
+        <div class="cards flex flex-col items-center p-3 pt-4 sm:flex-row">
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+            <x-card/>
+        </div>
+    </x-slot:content>
+</x-layout>
